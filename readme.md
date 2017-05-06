@@ -1,27 +1,7 @@
-# Laravel PHP Framework
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+# Laravel PHP Web Framework
+## 是一套简洁、优雅的PHP Web开发框架。它可以让你从面条一样杂乱的代码中解脱出来；它可以帮你构建一个完美的网络APP，而且每行代码都可以简洁、富于表达力
+## 为 WEB 艺术家创造的 PHP 框架[Laravel website](http://www.golaravel.com/)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+NIIT 学生个人博客系统开发 博客就是以网络作为载体，简易迅速便捷地发布自己的 心得，及时有效轻松地与他人进行交流，再集丰富多彩的个 性化展示于一体的综合性平台。NIIT 博客为学员打造一个笔 记分享、学习心得、教学协作的分享平台。 基本功能需求： 访客： 安艾艾迪信息技术（上海）有限公司保留最终解释权  阅读博文  评论博文  对博主留言  关注博主、发私信  点赞与打赏 博主：  博文发表、编辑、删除与浏览  博文分类、归档  博文评论管理  留言管理  个人信息维护  对其他博主关注 管理员  用户管理  博文管理并可以推荐博文  自动实现敏感信息过滤
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
