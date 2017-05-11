@@ -15,8 +15,12 @@
 ![](https://github.com/485564736/Blog/raw/master/imageblog/2.png)
 ### 博文展现
 ### 在博文的详细界面，可以查看博文的全部内容。可以查看博文的发布时间，作者，浏览次数，标题，内容，关键词，博文分类，关键词。还可以将博文分享到qq、微信等社交平台上去。在博文底部可以查看评论信息，还可以发表评论。评论支持文本内容和表情包，可以灵活修改评论的内容，设置评论的图文显示效果。
+#### 1
 ![](https://github.com/485564736/Blog/raw/master/imageblog/3.png)
+#### 2
 ![](https://github.com/485564736/Blog/raw/master/imageblog/4.png)
+#### 3
+![](https://github.com/485564736/Blog/raw/master/imageblog/18.png)
 
 ## blog个人博客管理
 ### 登录界面
