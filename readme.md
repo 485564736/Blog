@@ -8,12 +8,12 @@
 ## 以上功能均已实现
   
 # blog项目截图及说明
-## blog主页
-### 主界面
+## 1、blog主页
+### 1.1、主界面
 #### 包含最新博客的图文信息展示，系统管理员推荐的博文链接，博文的浏览排行链接，博文分类查看，博文按年月的归档查看，用户注册、登录功能。此外，主界面还包含一些小功能，例如轮播图，博文分页查看，博文点赞，关注博主，博文留言，打赏博主。
 ![](https://github.com/485564736/Blog/raw/master/imageblog/1.jpg)
 ![](https://github.com/485564736/Blog/raw/master/imageblog/2.png)
-### 博文展现
+### 1.2、博文展现
 ### 在博文的详细界面，可以查看博文的全部内容。可以查看博文的发布时间，作者，浏览次数，标题，内容，关键词，博文分类，关键词。还可以将博文分享到qq、微信等社交平台上去。在博文底部可以查看评论信息，还可以发表评论。评论支持文本内容和表情包，可以灵活修改评论的内容，设置评论的图文显示效果。
 #### 1
 ![](https://github.com/485564736/Blog/raw/master/imageblog/3.png)
@@ -22,38 +22,40 @@
 #### 3
 ![](https://github.com/485564736/Blog/raw/master/imageblog/18.png)
 
-## blog个人博客管理
-### 登录界面
+## 2、blog个人博客管理
+### 2.1、登录界面
 ![](https://github.com/485564736/Blog/raw/master/imageblog/5.png)
-### 博文修改与删除
+### 2.2、博文修改与删除
 ![](https://github.com/485564736/Blog/raw/master/imageblog/6.png)
-### 添加博文
+### 2.3、添加博文
 ![](https://github.com/485564736/Blog/raw/master/imageblog/13.png)
-### 评论列表
+### 2.4、评论列表
 ![](https://github.com/485564736/Blog/raw/master/imageblog/7.png)
-### 留言列表
+### 2.5、留言列表
 #### 详细列出了自己的留言和别人的留言，博主可以删除留言信息
 ![](https://github.com/485564736/Blog/raw/master/imageblog/8.png)
-### 个人信息
-### 博主昵称，头像，签名等信息的展示与修改
+### 2.6、个人信息
+#### 博主昵称，头像，签名等信息的展示与修改
 ![](https://github.com/485564736/Blog/raw/master/imageblog/9.png)
-### 关注列表
+### 2.7、关注列表
 #### 查看关注的博主，取消关注的博主，添加要关注的博主
 ![](https://github.com/485564736/Blog/raw/master/imageblog/10.png)
 
-## 系统管理员博客管理
-### 登录界面
+## 3、系统管理员博客管理
+### 3.1、登录界面
 ![](https://github.com/485564736/Blog/raw/master/imageblog/5.png)
-### 博文分类管理
+### 3.2、博文分类管理
 #### 添加分类，查看并删除分类
+##### 1
 ![](https://github.com/485564736/Blog/raw/master/imageblog/11.png)
+##### 2
 ![](https://github.com/485564736/Blog/raw/master/imageblog/12.png)
-### 博文列表
+### 3.3、博文列表
 #### 修改删除博文，推荐博文
 ![](https://github.com/485564736/Blog/raw/master/imageblog/14.png)
-### 评论列表
+### 3.4、评论列表
 ![](https://github.com/485564736/Blog/raw/master/imageblog/15.png)
-### 推荐博文列表
+### 3.5、推荐博文列表
 ![](https://github.com/485564736/Blog/raw/master/imageblog/16.png)
-### 用户列表
+### 3.6、用户列表
 ![](https://github.com/485564736/Blog/raw/master/imageblog/17.png)
